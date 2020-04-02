@@ -1,5 +1,7 @@
 {
-  "orgName": "Demo company",
+  "orgName": "TestPropertyFeature",
   "edition": "Developer",
-  "features": []
+  "features": [],
+  "adminEmail": "puneetgrover.aug19@gmail.com",
+  "task_name__c": "Adding new trigger on property object"
 }
